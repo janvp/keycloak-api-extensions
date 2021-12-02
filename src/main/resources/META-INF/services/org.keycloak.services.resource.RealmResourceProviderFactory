@@ -1,0 +1,2 @@
+org.keycloak.extensions.api.users.UsersResourceProviderFactory
+org.keycloak.extensions.api.groups.GroupsResourceProviderFactory
